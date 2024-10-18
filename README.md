@@ -1,4 +1,4 @@
-@@ -1 +1,36 @@
+
 # UVM-Verification-of-a-Synchronous-FIFO-
 # FIFO Design Verification using UVM
 ## Project Overview
